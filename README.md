@@ -2,6 +2,8 @@
 
 A **lightweight, low-resource Windows monitoring utility** designed for **parents and educators** to supervise kids’ learning and computer usage by periodically capturing screenshots.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c51fd606-54f4-4135-9de0-f61ed3339730" />
+
 This project focuses on:
 - Minimal CPU & memory usage
 - Transparency and ethics
